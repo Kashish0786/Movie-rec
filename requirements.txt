@@ -1,0 +1,20 @@
+numpy
+pandas
+scipy
+scikit-learn
+fastapi
+pydantic
+python-dotenv
+httpx
+uvicorn
+requests
+streamlit
+
+# Optional (dev/runtime helpers)
+# black
+# pytest
+
+# Virtual environment (Windows):
+# python -m venv .venv
+# .\.venv\Scripts\Activate
+#uvicorn main:app --reload ye krne baad ye website pr likhna ( http://127.0.0.1:8000/docs )
