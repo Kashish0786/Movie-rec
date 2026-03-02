@@ -1,3 +1,29 @@
 .env
 .venv
 __pycache__
+
+
+ git init
+git add .
+(.venv) PS D:\movierec> git status
+On branch master
+
+No commits yet
+
+ git commit -m "backend deploy"
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"       
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+ git config --global user.name "Kashish0786"
+(.venv) PS D:\movierec> git config --global user.email "siddiquekashish654@gmail.com"
+(.venv) PS D:\movierec> git commit -m "backend deploy"
+ git log
+>> git add .
+>>
+ git remote add origin
