@@ -8,9 +8,9 @@ python-dotenv
 httpx
 uvicorn
 requests
-streamlit
-streamlit
-altair==4.2.2
+streamlit>=1.30.0
+altair<5
+
 
 # Optional (dev/runtime helpers)
 # black
