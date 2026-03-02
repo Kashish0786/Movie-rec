@@ -9,6 +9,8 @@ httpx
 uvicorn
 requests
 streamlit
+streamlit
+altair==4.2.2
 
 # Optional (dev/runtime helpers)
 # black
